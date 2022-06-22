@@ -1,0 +1,27 @@
+Desvio condional simples
+
+if (...){
+
+}
+
+------------------
+Desvio condicional composto
+
+if (...){
+
+}
+else{
+}
+
+---------------
+Desvio encadeado
+
+if (...){
+
+}
+
+else if(...){
+
+}
+else{
+}
