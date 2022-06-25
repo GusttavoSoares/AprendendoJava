@@ -25,3 +25,17 @@ public class writeBuffer implements Runnable{
 		System.out.println("Escrita do buffer realizada!\n");
 	}
 }
+
+/*
+sum = sum + count
+1 = 0 + 1
+3 = 1 + 2
+6 = 3 + 3
+10 = 6 + 4
+15 = 10 + 5
+21 = 15 + 6
+28 = 21 +  7
+36 = 28 + 8
+45 = 36 + 9
+55 = 45 + 10
+ */

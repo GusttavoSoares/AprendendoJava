@@ -3,8 +3,7 @@ package Arquivos.Thread.MultiThreads;
 import java.security.SecureRandom;
 
 public class readBuffer implements Runnable {
-    private static final SecureRandom
-            generator = new SecureRandom();
+    private static final SecureRandom generator = new SecureRandom();
     private final buffer sharedLocation;
 
     public readBuffer(buffer sharedLocation) {
